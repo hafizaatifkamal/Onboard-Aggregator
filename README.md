@@ -11,4 +11,5 @@ The aim of this project is to create an internal Software for [Valuebound](https
 
 - Install Redmine locally on your system. [Click here](https://www.redmine.org/projects/redmine/wiki/howto_install_redmine_on_ubuntu_step_by_step) to learn more
 - You need to change the directory to `onboard-aggregator-backend` to start the server (back-end)
+- Create a `.env` file inside the `onboard-aggregator-backend` directory and paste the content of `.env.sample` file in it
 - In the terminal, you need to execute this command `npm install && npm start`
