@@ -13,3 +13,17 @@ The aim of this project is to create an internal Software for [Valuebound](https
 - You need to change the directory to `onboard-aggregator-backend` to start the server (back-end)
 - Create a `.env` file inside the `onboard-aggregator-backend` directory and paste the content of `.env.sample` file in it
 - In the terminal, you need to execute this command `npm install && npm start`
+
+## Contributing
+
+Contributions are always welcome!
+
+Please adhere to this project's `code of conduct`, Please raise Issues or PR in the repo.
+
+---
+
+### Tech Stack
+
+**Client:** React, Redux, Material-UI
+
+**Server:** Node, Express
