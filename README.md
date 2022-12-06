@@ -14,6 +14,8 @@ The aim of this project is to create an internal Software for [Valuebound](https
 - Create a `.env` file inside the `onboard-aggregator-backend` directory and paste the content of `.env.sample` file in it
 - In the terminal, you need to execute this command `npm install && npm start`
 
+---
+
 ## Contributing
 
 Contributions are always welcome!
